@@ -1,0 +1,16 @@
+#grid {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+img {
+    width: 128px;
+    height: 128px;
+    border: 1px solid black;
+    margin-bottom: 6px;
+}
